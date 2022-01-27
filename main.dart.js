@@ -49833,7 +49833,7 @@ F.Yu.prototype={
 $0(){C.X.i4(window,"https://github.com/aigerimZhusubalieva","Github")},
 $S:0}
 F.Yv.prototype={
-$0(){C.X.i4(window,"https://drive.google.com/file/d/14fp0514yjj5NlJKEDkwgxFChag8UbusT/view?usp=sharing","CV")},
+$0(){C.X.i4(window,"https://drive.google.com/file/d/19vfF5ojtbZw9gmBQ7Q1tCrm6CXiTdMME/view?usp=sharing","CV")},
 $S:0}
 F.Yw.prototype={
 $0(){C.X.i4(window,"mailto:az2177@nyu.edu","Email")},
